@@ -1,1 +1,1 @@
-git add README.md && git commit -m 'Update README with new information' && git push origin main
+git clone, git add, git commit, git push
